@@ -1,0 +1,23 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "A Personal Learning Node Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nefeed",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GavinChangCN/my-node-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GavinChangCN/my-node-project/issues"
+  },
+  "homepage": "https://github.com/GavinChangCN/my-node-project#readme"
+}
